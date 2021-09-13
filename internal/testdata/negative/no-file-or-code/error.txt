@@ -1,0 +1,1 @@
+one of 'code' or 'file' attributes must be set
