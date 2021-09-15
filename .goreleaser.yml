@@ -39,4 +39,4 @@ signs:
       - "--detach-sign"
       - "${artifact}"
 changelog:
-  skip: true
+  skip: false
